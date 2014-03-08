@@ -1,0 +1,19 @@
+html, body {
+	width: 80%;
+	height: 80%;
+	background-color:#F6ECD1;
+}
+
+#sketch {
+	border: 5px solid #fe9900;
+	height: 100%;
+	position: relative;
+	background-color:#E0D1C2;
+}
+
+#tmp_canvas {
+	position: absolute;
+	left: 0px; right: 0;
+	bottom: 0; top: 0;
+	cursor: crosshair;
+}

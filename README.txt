@@ -1,0 +1,1 @@
+Simple HTML5 canvas based paint app with line, rectangle and circle drawing tools. Canvas can be saved as png image.
